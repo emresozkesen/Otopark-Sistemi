@@ -1,0 +1,4 @@
+
+Id:2|Tarih: 22.12.2025 09:45:07 | Tür: otomobil | Giriş: 22.12.2025 17:00:00 | Çıkış: 22.12.2025 18:00:00 | Ücret: 10 | Durum: Randevusuz
+Id :3| Tarih: 22.12.2025 09:45:44 | Tür: otomobil | Giriş: 22.12.2025 18:00:00 | Çıkış: 22.12.2025 20:00:00 | Ücret: 20 | Durum: Randevulu
+Id :4| Tarih: 22.12.2025 09:47:18 | Tür: otomobil | Giriş: 22.12.2025 18:00:00 | Çıkış: 22.12.2025 20:00:00 | Ücret: 20 | Durum: Randevulu
